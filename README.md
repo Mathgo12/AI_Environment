@@ -1,1 +1,1 @@
-# AI_Environment
+# AI in Environmental Science
